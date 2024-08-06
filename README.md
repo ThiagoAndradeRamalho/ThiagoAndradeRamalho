@@ -1,7 +1,7 @@
 ## Eu sou Thiago Ramalho
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilkennn\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiaago79\&rank_icon=github)
 
 
   ##
