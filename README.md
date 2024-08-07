@@ -28,7 +28,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre Mim:
+<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/soulgem.gif"/>Sobre Mim:
 
 <div align="justify">
 Olá, sou o <code>Thiago</code>, teho 19 anos e moro em Belo Horizonte. Em 2020, tive meu primeiro contato com a programação, através do ensino médio técnico em informática no <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>. Durante esse período, aprendi linguagens como PHP, JavaScript, Kotlin, Swift, Sql, HTML e CSS além dos frameworks node.js e react. Realizei alguns projetos durante esse tempo, embora nenhum tenha sido no mercado de trabalh. Em 2022, estagiei em uma startup, <a href="https://www.linkedin.com/company/xeff/?originalSubdomain=br" target="_blank">Xeff Sistemas</a>, onde desenvolvi um site EAD (Educação a Distância) utilizando o <a href="https://bubble.io" target="_blank">Bubble</a>, que é uma plataforma <a href="https://zeev.it/blog/o-que-e-no-code/" target="_blank">no-code</a>.
@@ -39,7 +39,7 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 
 <div>
   
-<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/dev.gif"/>Interesses Pessoais:
+<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/soulgem.gif"/>Interesses Pessoais:
 
 <table>
 <tr>
@@ -53,13 +53,13 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 - :briefcase: Na <a href="https://www.linkedin.com/company/xeff/?originalSubdomain=br/" target="_blank">Xeff Sistemas</a>, atuei como desenvolvedor <code>no-code</code>, e desenvolvi uma plataforma EAD :man_teacher:<br />
 - :trophy: Fui o segundo melhor aluno no curso tecnico do <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>.<br />
 - :basketball: Meus hobbies são vê o <a href="https://atletico.com.br" target="_blank">galo</a> e o <a href="https://www.nba.com/warriors/" target="_blank">warriors</a> jogar.<br />
-- :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :page_facing_up: Veja meu <a href="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/ThiagoCV.pdf" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="220px"/>
+<img alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/dev.gif" width="340px" height="220px"/>
 </div>
 </td>
 </tr>
@@ -74,37 +74,41 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/skills.gif"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/c.png"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/csharp.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/java.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/css.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/react.png?raw=true"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/react.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/mysql.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postgresql.png?raw=true"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/postgresql.png"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/nodejs.png"/></a></code>
 &nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/git.png"/></a></code>
 &nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gitlab.png?raw=true"/></a></code>
+<code><a href="https://kotlinlang.org/api/latest/jvm/stdlib/org.w3c.dom.svg/-s-v-g-a-element/download.html" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/kotlin.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true"/></a></code>
+<code><a href="https://www.swift.org/download/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/swift.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/eclipse.png"/></a></code>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/vs.png"/></a></code>
+&nbsp;
+<code><a href="https://www.php.net/downloads.php" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/php.png"/></a></code>
+&nbsp;
+<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/xcode.png"/></a></code>
 &nbsp;
 </div>
 
@@ -112,7 +116,7 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/graphic.gif"/>GitHub Stats:
 
 <div align="center">
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thiaago79&theme=github_dark"/>
