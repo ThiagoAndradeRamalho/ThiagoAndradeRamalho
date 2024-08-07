@@ -8,7 +8,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Thiaago79" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/github5.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/ThiagoAndradeRamalho" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/github5.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@ThiagoAndrade27"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/replit3.svg" width="50px" height="50px"/></a>
 </td>
@@ -118,15 +118,15 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
  <img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/graphic.gif"/>&nbsp;GitHub Stats:
 
 <div align="center">
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thiaago79&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoAndradeRamalho&theme=github_dark"/>
 
-  <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiaago79&theme=github_dark"/>
+  <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoAndradeRamalho&theme=github_dark"/>
 </div>
 
 <div align="center">
   
- <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaago79&show_icons=true&theme=shadow_green"/>
- <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=Thiaago79&theme=github_dark"/>
+ <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAndradeRamalho&show_icons=true&theme=shadow_green"/>
+ <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoAndradeRamalho&theme=github_dark"/>
 </div>
 </div>
 
