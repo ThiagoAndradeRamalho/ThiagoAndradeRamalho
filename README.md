@@ -8,15 +8,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Thiaago79" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Thiaago79" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/github5.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@ThiagoAndrade27"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@ThiagoAndrade27"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/replit3.svg" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:thramalho79@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:thramalho79@gmail.com" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/gmail3.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/thiaago_ar/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/thiaago_ar/" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/insta2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/thiagoramalho79/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/thiagoramalho79/" target="_blank"><img src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 
 <div>
   
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Interesses Pessoais:
+<img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/dev.gif"/>Interesses Pessoais:
 
 <table>
 <tr>
@@ -128,5 +128,5 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaago79&show_icons=true&theme=shadow_green" />
  </div>
 
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
+<img align="center" alt="Footer2" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/barraPreta.svg"/>
 
