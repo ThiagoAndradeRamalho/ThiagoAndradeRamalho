@@ -115,8 +115,7 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 -----
 
 <div>
-  <img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/graphic.gif"/>
-  <h2>GitHub Stats:</h2>
+ <img height="20" alt="GIF" src="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/graphic.gif"/>&nbsp;GitHub Stats:
 
 <div align="center">
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thiaago79&theme=github_dark"/>
