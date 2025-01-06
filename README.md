@@ -53,7 +53,7 @@ Após concluir o ensino médio, ingressei na <a href="https://www.pucminas.br/de
 - :briefcase: Na <a href="https://www.linkedin.com/company/xeff/?originalSubdomain=br/" target="_blank">Xeff Sistemas</a>, atuei como desenvolvedor <code>no-code</code>, e desenvolvi uma plataforma EAD :man_teacher:<br />
 - :trophy: Fui o segundo melhor aluno no curso tecnico do <a href="https://www.cotemig.com.br/?pht=53101598905687976&keyword=cotemig&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiPtsnaWmqXoGbG5EjlQFF5Q7rVjYAqvaJbRO8HwqTs95GlMSf2KQ0xoCSQUQAvD_BwE" target="_blank">COTEMIG</a>.<br />
 - :basketball: Meus hobbies são vê o <a href="https://atletico.com.br" target="_blank">galo</a> e o <a href="https://www.nba.com/warriors/" target="_blank">warriors</a> jogar.<br />
-- :page_facing_up: Veja meu <a href="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/ThiagoCV.pdf" target="_blank">Currículo</a> para mais informações.
+- :page_facing_up: Veja meu <a href="https://github.com/ThiagoAndradeRamalho/ThiagoAndradeRamalho/blob/main/Img/CV_Thiago.pdf" target="_blank">Currículo</a> para mais informações.
 </p>
 </div>
 </td>
