@@ -1,6 +1,6 @@
 -----
 
-## <i> :wave: <b>Hi</b>, I'm Thiago Andrade
+## <i> :wave: <b>Hi</b>, I'm Thiago Ramalho
 
 <div align="center">
 <table>
